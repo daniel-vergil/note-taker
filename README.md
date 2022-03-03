@@ -25,6 +25,8 @@
 
 ## Usage
 <p>1. Click on Get Started button in the landing page<br>2. Enter a title and text for your note<br>3. Hit the save icon<br>4. Your note will be added to the left pane<br>5. You may view or delete your note from the left panel</p>
+<img width="1440" alt="landing_page" src="https://user-images.githubusercontent.com/55717787/156519240-96820c41-49cb-43bd-995f-48c65b7b4779.png">
+<img width="1440" alt="note_taker" src="https://user-images.githubusercontent.com/55717787/156519262-e7f27aef-dff5-4df1-b6cc-fbbd1f243e03.png">
 
 ## Credits
 <p>https://expressjs.com/</p>
